@@ -1,6 +1,9 @@
 # SentEval data and .pyc files
 
-
+data
+.DS_Store
+.idea
+examples/encoder
 
 # python
 __pycache__/
